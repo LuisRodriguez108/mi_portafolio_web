@@ -9,4 +9,4 @@ Este proyecto utiliza python, Pandas y Matplotlib para analizar datos de ventasd
 
 ## Autor
 Luis Antonio Rodriguez
-
+www.linkedin.com/in/luis-antonio-rodriguez-blanco-a02154395
