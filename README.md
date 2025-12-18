@@ -1,5 +1,5 @@
 # mi_portafolio_web
-Proyecto: Analisis de Datos con Python
+# Proyecto: Analisis de Datos con Python
 Este proyecto utiliza python, Pandas y Matplotlib para analizar datos de ventasde una empresa
 ## Tecnologias
 -Pandas
@@ -7,4 +7,5 @@ Este proyecto utiliza python, Pandas y Matplotlib para analizar datos de ventasd
 -Jupyter Notebook
 
 ## Autor
+Luis Antonio Rodriguez
 
