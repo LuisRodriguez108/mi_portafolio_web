@@ -1,2 +1,10 @@
 # mi_portafolio_web
-Administrar bases de codigos de python
+Proyecto: Analisis de Datos con Python
+Este proyecto utiliza python, Pandas y Matplotlib para analizar datos de ventasde una empresa
+## Tecnologias
+-Pandas
+-Python
+-Jupyter Notebook
+
+## Autor
+
